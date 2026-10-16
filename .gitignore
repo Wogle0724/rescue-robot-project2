@@ -1,0 +1,6 @@
+PLAN.md
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+results.json
